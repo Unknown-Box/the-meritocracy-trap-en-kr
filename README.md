@@ -1,7 +1,7 @@
 # the-meritocracy-trap-en-kr
 ## A book translation serise
-Translator - Unknown-Box
-
+Translator - Unknown-Box </br>
+...
 
 # About Book
 ## title
