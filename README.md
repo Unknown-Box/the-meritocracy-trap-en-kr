@@ -1,4 +1,13 @@
 # the-meritocracy-trap-en-kr
-A book translation: The Meritocracy Trap by. Daniel Markovits
+A book translation: The Meritocracy Trap (by. Daniel Markovits)
 
-Author - Unknown-Box
+Translator - Unknown-Box
+===================================================
+
+#About Book
+##title
+THE MERITOCRACY TRAP
+##Author
+Daniel Makovits
+##short description
+...
