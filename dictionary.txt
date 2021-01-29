@@ -16,7 +16,7 @@ alongside 옆에 나란히 부근에
 caste 카스트 "특권 계급" 신분
 ideal 이상 "궁극적 목적"
 reward 보상 보수
-achievement 업적 성취
+achievement 업적 성취 달성
 breeding 번식 사육
 breed "새끼를 낳다" 기르다
 anchor 정박시키다 "단단히 고정하다" "희망을 걸다"
@@ -55,3 +55,41 @@ graduate 졸업생 "학사 학위가 있는"
 block 막다 방해하다
 blame 뒤집어씌우다 비난하다
 competition 경쟁
+"as well" 또한 역시
+invest 투자하다
+grinding "끝없이 계속되는"
+grind 갈다 "고된 일"
+intensity 강함 격렬함 강도
+ruthlessly 무자비하게 잔인하게
+exploit 이용하다 착취하다
+"in order to" 위하여
+extract 추출하다 짜내다
+entice 유도하다
+anxious 불안해하는 걱정하는
+inauthentic 가짜의
+pitiless 인정사정없는 혹독한 무자비한
+lifelong 평생의
+secure 확보하다 지키다
+income 수입 소득
+excessive 과도한 지나친
+drive 몰아가다 "...에 이르게 하다"
+resent "억울하게 여기다" 분개하다
+establishment 기득권층 지배층
+seduce 꼬드기다 유혹하다 끌어들이다
+cling 집착하다 들러붙다
+corrupt 부정한 부패한
+prerogative 특전 특권
+ensnare 유혹하다
+maelstrom 대혼란 격동 "노르웨이 북서안 앞바다의 소용돌이"
+recrimination 비난 "비난에 비난으로 맞서기"
+disrespect 무례 결례 "존경심이 없음"
+dysfunction "기능 장애" 고장
+charisma 카리스마 "남을 끌어당기는 강한 개성" "비범한 통솔력"
+disguise 위장하다 감추다 "겉을 꾸며 속이다"
+indeed 사실은 정말 확실히
+critic 비평가 평론가
+embrace 포옹하다 받아들이다
+charge 비난하다 청구하다
+pretend "...인 체하다" "...임을 가장하다"
+"pretend to" 뻔뻔스럽게도, 감히
+reward 보상하다
